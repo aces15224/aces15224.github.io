@@ -1,2 +1,2 @@
-# aces15224.github.io
-Basic-Portfolio
+# Responsive-Portfolio
+Assignment 2-2
